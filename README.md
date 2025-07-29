@@ -8,8 +8,9 @@ Whether it's understanding book ratings, discovering music trends, or analyzing 
 
 ## 🚀 What's Inside?
 
-### Project 1 : EDA on Book Sales and Ratings
+### Project 1 : EDA on Book Sales and Ratings 
 Explore global book ratings, publishing trends, language distribution, and top authors.
+📒 [View Notebook ➜](./Eda_Books%20Sales%20and%20Ratings/Eda_1.ipynb)
 
 **Highlights:**
 - Cleaned dataset with missing value handling
