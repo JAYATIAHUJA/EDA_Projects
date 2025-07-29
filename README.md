@@ -16,9 +16,7 @@ Explore global book ratings, publishing trends, language distribution, and top a
 - Univariate & bivariate visual analysis
 - Top-selling publishers and popular authors
 - Genre-based insights and reader preferences
-
-🔗 [View Notebook](./Eda_Books Sales and Ratings/Eda_1.ipynb) 
-
+  
 ---
 
 
